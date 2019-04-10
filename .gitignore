@@ -48,4 +48,5 @@ _deps
 *.out
 *.app
 
-.ccls-cache
+.ccls-cache/
+build/
